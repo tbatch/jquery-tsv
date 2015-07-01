@@ -1,0 +1,6 @@
+*.class
+*~
+*#
+*.bak
+*.BAK
+*.tmp
